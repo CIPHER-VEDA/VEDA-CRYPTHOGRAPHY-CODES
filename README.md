@@ -9,5 +9,6 @@ Simplified DES (SDES) – A reduced version of the Data Encryption Standard for 
 Simplified AES – A lightweight implementation of the Advanced Encryption Standard.
 RSA Algorithm – A widely used asymmetric encryption algorithm based on prime factorization.
 Diffie-Hellman Key Exchange – A secure method for key agreement over an insecure channel.
+
 🚀 Usage
 These implementations are for educational purposes and can be used to understand cryptographic concepts. You can compile and execute each Java file using any standard Java development environment.
